@@ -15,6 +15,7 @@ valor, dentre outras métricas.
 Por ser um projeto de criação de dashboard em BI, o Python foi usado somente 
 para *tratamento e manipulação dos dados*, todas as análises e resultados
 estarão presentes no Dashboard no Tableau que pode ser acessado por este [link](https://public.tableau.com/app/profile/mmendes/viz/EstudodeCaso-ControledeFaturamento/Painel1):
+
 Todo o código e sintaxe utilizada para realização da limpeza e manipulação de dados pode ser acessado pelo arquivo do Jupyter Nutebook.
 
 Para fins de visualização, será anexado uma imagem do Dashboard abaixo:
