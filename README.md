@@ -19,5 +19,5 @@ Todo o código e sintaxe utilizada para realização da limpeza e manipulação 
 
 Para fins de visualização, será anexado uma imagem do Dashboard abaixo:
 
-!(./painel.png)
+![Painel](./painel.png)
 
