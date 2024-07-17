@@ -19,5 +19,5 @@ Todo o código e sintaxe utilizada para realização da limpeza e manipulação 
 
 Para fins de visualização, será anexado uma imagem do Dashboard abaixo:
 
-!['Dashboard Painel 1.png']([Dashboard Painel 1.png](https://github.com/matheuspmendes/Faturamento-Case/blob/4a6872a8aef5102c44f6c99962e0f1fb931e0de4/Dashboard%20Painel%201.png))
+!(./painel.png)
 
