@@ -19,4 +19,4 @@ Todo o código e sintaxe utilizada para realização da limpeza e manipulação 
 
 Para fins de visualização, será anexado uma imagem do Dashboard abaixo:
 
-![Prévia Dashboard](https://ibb.co/SB4pCDP)
+!(['Dashboard Painel 1.png'](https://github.com/matheuspmendes/Faturamento-Case/blob/main/Dashboard%20Painel%201.png))
